@@ -1,0 +1,6 @@
+name: cookiecutter-personal
+channels:
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: C:\Users\Geyson\anaconda3\envs\cookiecutter-personal
